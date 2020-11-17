@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am a student of computer science. 
-I am currently focused on android development📱.
+I am a Computer Science student. 
+Currently focused on Android Development📱.
+
 
 #### Languages & Tools
 - Flutter/Dart
