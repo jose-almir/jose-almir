@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 I am a Computer Science student. 💻
+
 Currently focused on Android Development. 📱
-I like design user interfaces and create web/mobile apps. 💟
+
+I like design user interfaces and create web/mobile 
+apps. 💟
+
 From Brazil. 🇧🇷
 
 <details>
@@ -18,10 +22,31 @@ From Brazil. 🇧🇷
   </ul>
   <br><br>
 </details>
+<hr>
 
-#### Projects and Experiments
-- [ETIB Event](https://jrcodev.github.io/ETIB/): Website made with BulmaCSS and Sass
-- [dafontdownloader](https://github.com/jrcodev/dafontdownloader): A font downloader cliente made with Python.
+<details>
+  <summary>Projecs & Experiments 💻🔧</summary>
+  <br>
+  <p><i>List of personal/group projects and tests!</i><p>
+  <ul>
+    <li><a href="https://jrcodev.github.io/ETIB/"> ETIB: Event: Made with BulmaCSS and Sass </a></li>
+    <li><a href="https://github.com/jrcodev/dafontdownloader">A font downloader cliente made with Python.</a></li>
+  </ul>
+  <br><br>
+</details>
+<hr>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jos%C3%A9-almir-00169a1b9/" alt="Linkedin"><img src="assets/icons/linkedin-box-fill.svg"></a>
+<a href="mailto:jr.cod.dev@gmail.com" alt="Contact me"><img src="assets/icons/mail-fill.svg"></a>
+<a href="https://jr-cod-dev.medium.com/" alt="Contact me"><img src="assets/icons/medium-fill.svg"></a>
+</p>
+
+<p align="center">
+    <a href="http://hits.dwyl.com/jrcodev/jrcodev">
+      <img align="center" src="http://hits.dwyl.com/jrcodev/jrcodev.svg">
+    </a>
+</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrcodev)](https://github.com/anuraghazra/github-readme-stats)
 
