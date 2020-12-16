@@ -9,6 +9,7 @@ apps. 💟
 
 From Brazil. 🇧🇷
 
+<hr>
 <details>
   <summary>Language & Tools 💻🔧</summary>
   <br>
@@ -22,7 +23,6 @@ From Brazil. 🇧🇷
   </ul>
   <br><br>
 </details>
-<hr>
 
 <details>
   <summary>Projecs & Experiments 💻🔧</summary>
