@@ -1,4 +1,4 @@
-<img src="assets/img/me.jpg" height="50px" style="border-radius: 25px" align="right">
+<img src="assets/img/me.jpg" height="auto" width="75px" style="border-radius: 150px 150px 150px 150px;" align="right">
 
 ## Hi there 👋 
 
