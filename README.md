@@ -1,4 +1,7 @@
-### Hi there 👋 
+<img src="assets/img/me.jpg" height="50px" style="border-radius: 25px" align="right">
+
+## Hi there 👋 
+
 
 - I am a Computer Science student. 💻
 - Currently focused on Android Development. 📱
