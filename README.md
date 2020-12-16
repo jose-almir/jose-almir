@@ -11,4 +11,8 @@ Currently focused on Android Development📱.
 - Python
 - SQL
 
+#### Projects and Experiments
+- [ETIB Event](https://jrcodev.github.io/ETIB/)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrcodev)](https://github.com/anuraghazra/github-readme-stats)
+
