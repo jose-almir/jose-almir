@@ -1,5 +1,3 @@
-<img src="assets/img/me.jpg" height="auto" width="75px" style="border-radius: 150px 150px 150px 150px;" align="right">
-
 ## Hi there 👋 
 
 
@@ -46,6 +44,9 @@ apps. 💟
 </p>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrcodev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrcodev&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcodev&layout=compact&theme=cobalt)](https://github.com/jrcodev/)
 
 
