@@ -44,9 +44,9 @@ apps. 💟
 </p>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrcodev&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrcodev&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcodev&layout=compact&theme=cobalt)](https://github.com/jrcodev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcodev&hide=CSS,Sass,HTML&include_all_commits=true&count_private=true&layout=compact&theme=dark)](https://github.com/jrcodev/)
 
 
