@@ -15,7 +15,7 @@ apps. 💟
   <ul>
     <li>Flutter/Dart</li>
     <li>Kotlin</li>
-    <li>HTML/CSS/JS(ES6)/React/Bulma</li>
+    <li>HTML/CSS/Typescript/React/Bulma</li>
     <li>Python</li>
     <li>SQL</li>
   </ul>
