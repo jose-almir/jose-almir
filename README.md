@@ -29,6 +29,7 @@ apps. 💟
   <ul>
     <li><a href="https://jrcodev.github.io/ETIB/"> ETIB: Event: Made with BulmaCSS and Sass </a></li>
     <li><a href="https://github.com/jrcodev/dafontdownloader">A font downloader cliente made with Python.</a></li>
+    <li><a href="https://cvmdata.web.app">A web app for financial data from CVM</a></li>
   </ul>
   <br><br>
 </details>
