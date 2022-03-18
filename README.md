@@ -5,10 +5,8 @@
 
 - I am a Computer Science student 💻
 - I am a web development teacher 💻
-- Currently focused on MEAN Stack
+- Currently focused on MEAN Stack/Spring/Flutter/Neural Networks
 - From Brazil. 🇧🇷
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jose-almir&count_private=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jose-almir)](https://github.com/jrcodev)
-
+## Metrics
+![Metrics](https://metrics.lecoq.io/jose-almir?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
