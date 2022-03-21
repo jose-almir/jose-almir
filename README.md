@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/jose-almir/jose-almir.github.io/main/images/jose-almir/me.png" align="right" width="196">
+
 ## Hi there 👋 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrcodev/)
