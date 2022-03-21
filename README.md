@@ -1,14 +1,5 @@
-<img src="https://raw.githubusercontent.com/jose-almir/jose-almir.github.io/main/images/jose-almir/me.png" align="right" width="196">
-
-## Hi there 👋 
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrcodev/)
-[![Gmail badge](https://img.shields.io/badge/-jr.cod.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jr.cod.dev@gmail.com)](mailto:jr.cod.dev@gmail.com)
-
-- I am a Computer Science student 💻
-- I am a web development teacher 💻
-- Currently focused on MEAN Stack/Spring/Flutter/Neural Networks
-- From Brazil. 🇧🇷
-
-## Metrics
-![Metrics](https://metrics.lecoq.io/jose-almir?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+# Hello, friend
+<div>
+  <img src="https://raw.githubusercontent.com/jose-almir/jose-almir.github.io/main/images/jose-almir/me.png" align="left"  width="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=jose-almir&show_icons=true&theme=dark" align="right"/>
+</div>
