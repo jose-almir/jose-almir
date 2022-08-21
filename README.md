@@ -50,7 +50,6 @@
 </div>
 
 ###
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=resilientt&width=300&unique=true" />
 <div align="center">
   <img src="https://profile-counter.glitch.me/jose-almir/count.svg?"  />
 </div>
