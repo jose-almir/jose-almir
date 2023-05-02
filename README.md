@@ -1,4 +1,5 @@
-<div align="center"> <kbd><img height="150" src="https://user-images.githubusercontent.com/50648379/235480868-e14a8e76-ec02-4192-af55-da933d5cd983.jpg" /></kbd> </div>
+<div align="center"><img height="200" src="https://user-images.githubusercontent.com/50648379/235692940-d177b991-bde8-4d67-974c-6ba7a76c3e2b.png" /></div>
+
 
 <h1 align="center">Hi 👋, I'm José Almir</h1>
 <h3 align="center">A fullstack developer and instructor</h3>
