@@ -32,6 +32,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como criar um File Picker com React?](https://jose-almir.github.io/blog/file-picker-react)
+- [Como aprender CSS](https://jose-almir.github.io/blog/como-aprender-css)
+- [Sobre mim](https://jose-almir.github.io/blog/sobre-mim)
 <!-- BLOG-POST-LIST:END -->
 
 ###
