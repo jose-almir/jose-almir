@@ -21,6 +21,6 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Purismo e Pragmatismo](https://jose-almir.github.io/blog/purismo-pragmatismo)
 - [Um novo ciclo no blog](https://jose-almir.github.io/blog/novo-ciclo-blog)
-- [Purismo vs. Pragmatismo](https://jose-almir.github.io/blog/purismo-vs-pragmatismo)
 <!-- BLOG-POST-LIST:END -->
