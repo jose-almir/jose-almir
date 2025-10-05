@@ -21,7 +21,6 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como criar um File Picker com React?](https://jose-almir.github.io/blog/file-picker-react)
-- [Como aprender CSS](https://jose-almir.github.io/blog/como-aprender-css)
-- [Sobre mim](https://jose-almir.github.io/blog/sobre-mim)
+- [Um novo ciclo no blog](https://jose-almir.github.io/blog/novo-ciclo-blog)
+- [Purismo vs. Pragmatismo](https://jose-almir.github.io/blog/purismo-vs-pragmatismo)
 <!-- BLOG-POST-LIST:END -->
