@@ -21,6 +21,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Um CMS que usa o GitHub como banco de dados](https://jose-almir.github.io/blog/cms-portfolio)
 - [Purismo e Pragmatismo](https://jose-almir.github.io/blog/purismo-pragmatismo)
 - [Um novo ciclo no blog](https://jose-almir.github.io/blog/novo-ciclo-blog)
 <!-- BLOG-POST-LIST:END -->
