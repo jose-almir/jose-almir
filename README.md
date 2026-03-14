@@ -21,7 +21,8 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Código Artesanal em 2026?](https://jose-almir.github.io/blog/codigo-artesanal-2026)
+- [Handcrafted Code in 2026?](https://jose-almir.github.io/blog/codigo-artesanal-2026.en)
 - [Um CMS que usa o GitHub como banco de dados](https://jose-almir.github.io/blog/cms-portfolio)
 - [Purismo e Pragmatismo](https://jose-almir.github.io/blog/purismo-pragmatismo)
-- [Um novo ciclo no blog](https://jose-almir.github.io/blog/novo-ciclo-blog)
 <!-- BLOG-POST-LIST:END -->
