@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://jose-almir.github.io/feed.xml"
+                feed_list: "https://jose-almir.github.io/feed.pt.xml"
