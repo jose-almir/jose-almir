@@ -52,11 +52,10 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Código Artesanal em 2026?](https://jose-almir.github.io/pt/blog/codigo-artesanal-2026)
-- [Um CMS que usa o GitHub como banco de dados](https://jose-almir.github.io/pt/blog/cms-portfolio)
-- [Purismo e Pragmatismo](https://jose-almir.github.io/pt/blog/purismo-pragmatismo)
-- [Um novo ciclo no blog](https://jose-almir.github.io/pt/blog/novo-ciclo-blog)
+<!-- BLOG-POST-LIST:START --><a href="https://jose-almir.github.io/pt/blog/codigo-artesanal-2026">Código Artesanal em 2026?</a>
+<a href="https://jose-almir.github.io/pt/blog/cms-portfolio">Um CMS que usa o GitHub como banco de dados</a>
+<a href="https://jose-almir.github.io/pt/blog/purismo-pragmatismo">Purismo e Pragmatismo</a>
+<a href="https://jose-almir.github.io/pt/blog/novo-ciclo-blog">Um novo ciclo no blog</a>
 <!-- BLOG-POST-LIST:END -->
 
 </div>
