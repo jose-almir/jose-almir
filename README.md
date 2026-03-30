@@ -52,10 +52,10 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --><a href="https://almirdev.com/pt/blog/deploy-spring-boot-railway">Deploy do Shortr: como hospedei Spring Boot, Redis e Postgres de graça no Railway</a>
-<a href="https://almirdev.com/pt/blog/codigo-artesanal-2026">Código Artesanal em 2026?</a>
-<a href="https://almirdev.com/pt/blog/cms-portfolio">Um CMS que usa o GitHub como banco de dados</a>
-<a href="https://almirdev.com/pt/blog/purismo-pragmatismo">Purismo e Pragmatismo</a>
+<!-- BLOG-POST-LIST:START --><a href="https://almirdev.com/pt/projects/sol-e">Project: SOL-e - Extrator Automatizado de Referências &lpar;Patenteado&rpar;</a>
+<a href="https://almirdev.com/pt/projects/mercadim">Project: Mercadim - Marketplace Regional</a>
+<a href="https://almirdev.com/pt/projects/arantia-art">Project: Arântia Art - Portfólio &amp; CMS Serverless</a>
+<a href="https://almirdev.com/pt/blog/deploy-spring-boot-railway">Deploy do Shortr: como hospedei Spring Boot, Redis e Postgres de graça no Railway</a>
 <!-- BLOG-POST-LIST:END -->
 
 </div>
