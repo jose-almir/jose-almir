@@ -52,9 +52,9 @@
 
 ### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --><a href="https://almirdev.com/pt/projects/sol-e">Project: SOL-e - Extrator Automatizado de Referências &lpar;Patenteado&rpar;</a>
+<!-- BLOG-POST-LIST:START --><a href="https://almirdev.com/pt/projects/sol-e">Project: SOL-e - Extrator Automatizado de Referências</a>
 <a href="https://almirdev.com/pt/projects/mercadim">Project: Mercadim - Marketplace Regional</a>
-<a href="https://almirdev.com/pt/projects/arantia-art">Project: Arântia Art - Portfólio &amp; CMS Serverless</a>
+<a href="https://almirdev.com/pt/projects/arantia-art">Project: Arântia Art - Portfólio e CMS Serverless</a>
 <a href="https://almirdev.com/pt/blog/deploy-spring-boot-railway">Deploy do Shortr: como hospedei Spring Boot, Redis e Postgres de graça no Railway</a>
 <!-- BLOG-POST-LIST:END -->
 
