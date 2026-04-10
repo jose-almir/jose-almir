@@ -12,4 +12,4 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://jose-almir.github.io/feed.pt.xml"
-                template: '<a href="$url">$title</a>$newline'
+                template: '<a href="$url">$title</a>$newline$newline'
