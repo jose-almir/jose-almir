@@ -31,6 +31,7 @@
 <ul>
   <li>Architectures for complex systems (<strong>DDD, Ports & Adapters, Clean Architecture</strong>).</li>
   <li><strong>Open Source</strong> contributions and tools that optimize workflow.</li>
+  <li><strong>System Design</strong> and <strong>Distributed Systems</strong></li>
 </ul>
 
 <p align="center">
