@@ -115,7 +115,7 @@ Core expertise in **`Java`** and **`Spring Boot`** for the back-end ecosystem. I
 
 <a href="https://almirdev.com/pt/projects/arantia-art">Project: Arântia Art - Portfólio e CMS Serverless</a>
 
-<a href="https://almirdev.com/pt/blog/deploy-spring-boot-railway">Deploy do Shortr: como hospedei Spring Boot, Redis e Postgres de graça no Railway</a>
+<a href="https://almirdev.com/pt/blog/durable-objects-consistency-edge">Durable Objects: Estado e Consistência Forte no Edge</a>
 
 <!-- BLOG-POST-LIST:END -->
 
