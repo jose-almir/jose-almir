@@ -109,13 +109,13 @@ Core expertise in **`Java`** and **`Spring Boot`** for the back-end ecosystem. I
 
 <div align="center">
 
-<!-- BLOG-POST-LIST:START --><a href="https://almirdev.com/pt/projects/sol-e">Project: SOL-e - Extrator Automatizado de Referências</a>
+<!-- BLOG-POST-LIST:START --><a href="https://almirdev.com/pt/projects/arantia-art">Project: Arântia Art - Portfólio e CMS Serverless</a>
 
-<a href="https://almirdev.com/pt/projects/mercadim">Project: Mercadim - Marketplace Regional</a>
+<a href="https://almirdev.com/pt/blog/cms-portfolio">Um CMS que usa o GitHub como banco de dados</a>
 
-<a href="https://almirdev.com/pt/projects/arantia-art">Project: Arântia Art - Portfólio e CMS Serverless</a>
+<a href="https://almirdev.com/pt/blog/purismo-pragmatismo">Purismo e Pragmatismo</a>
 
-<a href="https://almirdev.com/pt/blog/durable-objects-consistency-edge">Durable Objects: Estado e Consistência Forte no Edge</a>
+<a href="https://almirdev.com/pt/blog/file-picker-react">Como criar um File Picker com React?</a>
 
 <!-- BLOG-POST-LIST:END -->
 
