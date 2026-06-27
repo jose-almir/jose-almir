@@ -63,11 +63,14 @@ Core expertise in **`Node.js`** and **`TypeScript`** for back-end engineering. I
 
 <div align="center">
 
-<!-- BLOG-POST-LIST:START -->
-<a href="https://almirdev.com/pt/projects/arantia-art">Project: Arântia Art - Portfólio e CMS Serverless</a><br/>
-<a href="https://almirdev.com/pt/blog/cms-portfolio">Um CMS que usa o GitHub como banco de dados</a><br/>
-<a href="https://almirdev.com/pt/blog/purismo-pragmatismo">Purismo e Pragmatismo</a><br/>
+<!-- BLOG-POST-LIST:START --><a href="https://almirdev.com/pt/projects/arantia-art">Project: Arântia Art - Portfólio e CMS Serverless</a>
+
+<a href="https://almirdev.com/pt/blog/cms-portfolio">Um CMS que usa o GitHub como banco de dados</a>
+
+<a href="https://almirdev.com/pt/blog/purismo-pragmatismo">Purismo e Pragmatismo</a>
+
 <a href="https://almirdev.com/pt/blog/file-picker-react">Como criar um File Picker com React?</a>
+
 <!-- BLOG-POST-LIST:END -->
 
 </div>
