@@ -18,7 +18,7 @@
 
 <h2 style="border-bottom: none; padding-bottom: 0;">About me</h2>
 
-<p>Software Engineer. I develop back-end systems within the <strong>Java/Spring</strong> ecosystem, as well as Python automations and modern interfaces with Next.js. I value clean code and solutions that solve real-world problems.</p>
+<p>Software Engineer. I develop back-end systems within the <strong>Node/Typescript</strong> ecosystem, as well as Python automations and modern interfaces with Next.js. I value clean code and solutions that solve real-world problems.</p>
 
 <p>I believe that repetitive processes should be automated whenever possible, freeing up time to focus on business logic and building real value for the user.</p>
 
@@ -90,16 +90,16 @@ Performance-focused URL shortener. Implemented with back-end best practices to e
 Core expertise in **`Java`** and **`Spring Boot`** for the back-end ecosystem. I use **`Python`** for scripts and rapid data science, and **`JavaScript` / `TypeScript`** with **`Next.js`** for the front-end. The infrastructure is based on **`Docker`**, **`Azure`**, and **`Linux`** environments.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-27ae60?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-27ae60?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Python-27ae60?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Next.js-27ae60?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-27ae60?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-27ae60?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node-27ae60?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Python-27ae60?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Cloudflare-27ae60?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 <br/>
   <img src="https://img.shields.io/badge/Docker-27ae60?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Azure-27ae60?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Linux-27ae60?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/MySQL-27ae60?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-27ae60?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-27ae60?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
